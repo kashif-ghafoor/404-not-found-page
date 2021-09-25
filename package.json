@@ -1,0 +1,15 @@
+{
+  "name": "404-not-found-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kashif-ghafoor/404-not-found-page.git",
+  "author": "kashif-ghafoor <kashifghafoor140@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  }
+}
